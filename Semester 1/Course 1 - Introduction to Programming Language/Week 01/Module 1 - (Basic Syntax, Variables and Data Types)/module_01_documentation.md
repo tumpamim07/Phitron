@@ -1,6 +1,6 @@
 # 📘 Module 1 Documentation
 <details>
-<summary><b> Basic Syntax, Variables and Data Types></b></summary>
+<summary><b> Basic Syntax, Variables and Data Types</b></summary>
 
 ### Code Structure, Main Function, `printf()`, Special Characters
 
